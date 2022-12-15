@@ -1,0 +1,23 @@
+.main{
+    font-size: 24px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.main_page{
+    font-size: 36px;
+    color: brown;
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+.table{
+    border: 3px solid brown;
+    width: 500px;
+    border-collapse: collapse;
+    margin-top: 50px;
+}
+.login{
+    text-decoration: none;
+}
+
+
